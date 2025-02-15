@@ -1,6 +1,6 @@
 module github.com/thisisthemurph/ledger-system-shared
 
-go 1.23.4
+go 1.24.0
 
 require (
 	github.com/golang-migrate/migrate/v4 v4.18.2
@@ -12,5 +12,5 @@ require (
 require (
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
-	go.uber.org/atomic v1.7.0 // indirect
+	go.uber.org/atomic v1.11.0 // indirect
 )
