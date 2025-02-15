@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
-	"github.com/thisisthemurph/ledger-system/shared/database"
+	"github.com/thisisthemurph/ledger-system-shared/database"
 	"os"
 
 	"github.com/joho/godotenv"
-	"github.com/thisisthemurph/ledger-system/shared/internal/migrator"
+	"github.com/thisisthemurph/ledger-system-shared/internal/migrator"
 )
 
 const MigrationsPath = "file://internal/migrations"

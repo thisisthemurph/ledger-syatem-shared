@@ -1,4 +1,4 @@
-module github.com/thisisthemurph/ledger-system/shared
+module github.com/thisisthemurph/ledger-system-shared
 
 go 1.23.4
 
