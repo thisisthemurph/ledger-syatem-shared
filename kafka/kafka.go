@@ -1,5 +1,6 @@
 package kafka
 
 const (
-	TopicTransactions = "transactions"
+	TopicTransactions  = "transactions"
+	TopicLedgerUpdated = "ledger.updated"
 )
